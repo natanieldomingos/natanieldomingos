@@ -47,6 +47,6 @@
 <h3 align="center">GitHub Stats</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ieldcoder&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&locale=en&hide_border=false" height="120" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ieldcoder&locale=en&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="120" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ieldcoder&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&locale=en&hide_border=false" height="110" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ieldcoder&locale=en&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="110" alt="Most Used Languages" />
 </div>
